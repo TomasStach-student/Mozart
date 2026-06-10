@@ -19,4 +19,4 @@ def tro():
         trio1.append(cislo_takt_trio)
     print("trio:",trio1)
 
-    
+
